@@ -1,0 +1,15 @@
+.movie{
+    width: 350px;
+    height: 500px;
+    background: #ddd;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    a{
+        text-decoration: none;
+        color: rgb(179, 19, 19);
+        .title{text-align: center; font-size: 18px;}
+        .img{width: 70%;  }
+        .data{margin-top: 30px; }
+    }
+}
