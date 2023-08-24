@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fdkfmdfs/text1/static/css/main.7373a815.css",
+    "main.js": "/fdkfmdfs/text1/static/js/main.835a0eda.js",
+    "index.html": "/fdkfmdfs/text1/index.html",
+    "main.7373a815.css.map": "/fdkfmdfs/text1/static/css/main.7373a815.css.map",
+    "main.835a0eda.js.map": "/fdkfmdfs/text1/static/js/main.835a0eda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7373a815.css",
+    "static/js/main.835a0eda.js"
+  ]
+}
